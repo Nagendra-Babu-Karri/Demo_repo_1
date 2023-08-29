@@ -1,4 +1,5 @@
 a=3
 b=2
 c=5
-print(a+b+c)
+d=10
+print(a+b+c+d)
